@@ -1,6 +1,6 @@
 {
   "name": "pryprtkits",
-  "version": "1.0.0",
+  "version": "0.1.0-beta",
   "description": "PryprtKits - 前端通用工具箱库，包含 150+ 个实用工具函数",
   "main": "dist/pryprtkits.js",
   "module": "dist/pryprtkits.min.js",
